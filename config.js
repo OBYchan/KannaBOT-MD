@@ -44,25 +44,25 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
+global.sig = 'https://instagram.com/sumei.gt'
+global.sgh = 'https://github.com/APTXmrnn'
 global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '089616866270'
+global.povo = '089616866270'
+global.pgopay = '089616866270'
+global.ppulsa = '089616866270'
+global.ppulsa2 = '089616866270'
+global.psaweria = 'https://saweria.com/sumei'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorown = '6289616866270'
+global.namebot = 'Sumei BOT'
+global.nameown = 'Novens - Sama'
 
 
 /*============== STAFF ==============*/
@@ -70,7 +70,7 @@ global.owner = [
   ['6283143393763'],
   ['6285712420674'],
   ['18126338970'],
-  ['62831433937633', 'LETTA ! 🐰', true]
+  ['6289616866270', 'NOVENs ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
